@@ -66,7 +66,7 @@
  	 	 	 	"eng": "Shangri-La City center"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Центр]\r\n        Один из самых занятых городов материка, тут ты встретишь самых разных людей со всей планеты.",
+ 	 	 	 	"trans": "[Центр]\r\n        Один из самых занятых оживленных материка, тут ты встретишь самых разных людей со всего земного шара.",
  	 	 	 	"eng": "[Central Hub]\r\n        One of the busiest cities in the continent. Here you can find all sorts of people from around the globe."
  	 	 	},
  	 	 	"toStation": {
@@ -116,7 +116,7 @@
  	 	 	 	"eng": "Shangri-La Commercial Area"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Работа]\r\n        Разные виды магазинов и предприятий, лучшее место для проверки своих навыков.",
+ 	 	 	 	"trans": "[Работа]\r\n        Здесь расположено множество магазинов и предприятий. Идеальное место для оттачивания и совершенствования своих навыков.",
  	 	 	 	"eng": "[Job Hub]\r\n        Here are many shops and businesses reside. The perfect location to hone and refine your skills."
  	 	 	},
  	 	 	"toMainHub": {
@@ -132,7 +132,7 @@
  	 	 	 	"eng": "Shangri-La Market Street"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Торговый Рынок Игроков]\r\n        Знаменитая торговая площаль в Шангри-Ла. Площадь заполнена прилавками.\r\n        Подбери что-нибудь для себя или продавай сам.",
+ 	 	 	 	"trans": "[Торговый Рынок Игроков]\r\n        Знаменитая торговая площаль в Шангри-Ла. Площадь заполнена прилавками.\r\n        Может быть, ты сможешь найти то, что тебе нужно, или сам откроешь магазин.",
  	 	 	 	"eng": "[Player Market]\r\n        The famous market street in Shangri-La. Loads of market stalls fill the street.\r\n        Maybe you can find something you need or set up shop yourself."
  	 	 	},
  	 	 	"toMainHub": {
@@ -148,7 +148,7 @@
  	 	 	 	"eng": "Hyper Train Central Station"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Приключение]\r\n        С помощью вакуумного поезда можно с легкостью перемещаться по материку на большой скорости.",
+ 	 	 	 	"trans": "[Приключение]\r\n        С помощью вакуумного поезда можно с легкостью путешествовать по материку со сверхзвуковой скоростью.",
  	 	 	 	"eng": "[Adventure]\r\n        Using the hyperloop, you can travel at supersonic speed across the continent with ease."
  	 	 	}
  	 	},
@@ -199,12 +199,12 @@
  	 	"segment": {
  	 	 	"locked": {
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Собери все 3 Фрагмента Ключа из Данжей с трех локаций на предыдущей станции, \r\n                    а после найди [Терминал], чтобы создать нужный ключ",
+ 	 	 	 	 	"trans": "Собери все 3 Фрагмента Ключа из Данжей в каждой из 3 локаций на предыдущей станции, \r\n                    а после найди [Терминал] в Центре города, чтобы создать нужный ключ",
  	 	 	 	 	"eng": "Gather all 3 different Key Fragments from Dungeons in each 3 zones in previous station, \r\n                    then go to [Terminal] at City Center [Hub] to brute-force (Craft) the key required to unlock this area"
  	 	 	 	}
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "Начни в зоне уровнями от 1 до 10",
+ 	 	 	 	"trans": "Начни с зоны с 1 по 10 уровни",
  	 	 	 	"eng": "Start with level 1 to 10 area"
  	 	 	},
  	 	 	"toZone": {
@@ -256,7 +256,7 @@
  	 	 	 	"eng": "[Gang]\r\n        The headquarters for you and your gang members to plan and execute your next operation"
  	 	 	},
  	 	 	"cantEnterError": {
- 	 	 	 	"trans": "Вы должны присоединиться к увеличению, чтобы войти в эту область",
+ 	 	 	 	"trans": "Вам нужно присоединиться к банде, чтобы войти в эту область",
  	 	 	 	"eng": "You need to join a gang to enter this area"
  	 	 	}
  	 	}
@@ -272,7 +272,7 @@
  	 	 	 	"eng": "You can purchase global buff items here"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Вам нужен хотя бы уровень 5 для доступа к бирже подразделения",
+ 	 	 	 	"trans": "Вы должны быть как минимум 5-го уровня для доступа к бирже подразделения",
  	 	 	 	"eng": "You need to be at least level 5 to access unit exchange"
  	 	 	}
  	 	},
@@ -286,7 +286,7 @@
  	 	 	 	"eng": "If you liked the game, please consider donation :)"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Вам нужен как минимум уровне 5 для доступа к косметическому продавцу",
+ 	 	 	 	"trans": "Вы должны быть как минимум 5-го уровня для доступа к косметическому продавцу",
  	 	 	 	"eng": "You need to be at least level 5 to access cosmetic merchant"
  	 	 	}
  	 	},
@@ -320,7 +320,7 @@
  	 	 	 	"eng": "Your personal computer, although it's a little outdated, it can get the job done with enough patience"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Вам нужно хотя бы уровень 5 для доступа к терминалу",
+ 	 	 	 	"trans": "Вы должны быть как минимум 5-го уровня для доступа к терминалу",
  	 	 	 	"eng": "You need to be at least level 5 to access terminal"
  	 	 	}
  	 	},
@@ -336,7 +336,7 @@
  	 	 	 	"eng": "Bank of Arasaka"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Вам нужен не менее 5 уровня для доступа к банку",
+ 	 	 	 	"trans": "Вы должны быть как минимум 5-го уровня для доступа к банку",
  	 	 	 	"eng": "You need to be at least level 5 to access bank"
  	 	 	}
  	 	},
@@ -360,7 +360,7 @@
  	 	 	 	"eng": "A family run trading shop that lets you trade with what they have found while scavenging"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Вам нужно хотя бы уровень 10 для доступа к продавцу",
+ 	 	 	 	"trans": "Вы должны быть как минимум 10-го уровня для доступа к продавцу",
  	 	 	 	"eng": "You need to be at least level 10 to access merchant"
  	 	 	}
  	 	},
@@ -370,7 +370,7 @@
  	 	 	 	"eng": "Automatic Recycler"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Полностью автоматизированный переработчик, способный перерабатывать предметы до металлолома",
+ 	 	 	 	"trans": "Полностью автоматизированный утилизатор, способный перерабатывать предметы до металлолома",
  	 	 	 	"eng": "Fully automated recycler, capable of recycling items to their basic scrap form"
  	 	 	}
  	 	}
@@ -392,7 +392,7 @@
  	 	 	 	"eng": "Hack a Body Mod Clinic"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Скачивай данные местной клиники модификаций тела, чтобы создавать медицинские припасы более высокого уровня.",
+ 	 	 	 	"trans": "Скачивай полезные данные из местной клиники модификаций тела, чтобы создавать медицинские припасы более высокого уровня.",
  	 	 	 	"eng": "Download useful data from a local body mod clinic to craft higher quality medical bots and drones."
  	 	 	}
  	 	},
@@ -402,7 +402,7 @@
  	 	 	 	"eng": "Improve Ammunition"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Изучай боеприпасы, чтобы узнать о более совершенных методах их создания.",
+ 	 	 	 	"trans": "Изучай боеприпасы, чтобы найти более эффективные способы их изготовления.",
  	 	 	 	"eng": "Tinker with ammunition, to find more effective ways of crafting it."
  	 	 	}
  	 	},
@@ -436,7 +436,7 @@
  	 	 	 	"eng": "[AFK Exp Farm]\r\n        Deploys an AI to dungeon for you. This will use up an AI Core, they usually only just manage the one trip."
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "Используй своё Ядро ИИ, чтобы автоматически побеждать противников",
+ 	 	 	 	"trans": "Используй своё Ядро ИИ для автоматического ферма врагов, пока ты АФК",
  	 	 	 	"eng": "You can use your AI Core to Auto-Farm enemies while you AFK"
  	 	 	}
  	 	},
@@ -462,7 +462,7 @@
  	 	 	 	"eng": "Gather Gang Resource"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Помощь сборе и управлении необходимыми ресурсами для вашего клана",
+ 	 	 	 	"trans": "Помощь в сборе и управлении необходимыми ресурсами для вашего клана",
  	 	 	 	"eng": "Help gather and manage needed resources for your gang"
  	 	 	}
  	 	},
@@ -492,17 +492,17 @@
  	 	 	 	"eng": "Play MEGA Pachinko Game"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Konnichiwa!! ^___^\r\n        Приходите играть в MEGA Pachinko! С шансом выиграть ОГРОМНЫЕ ЭПИЧЕСКИЕ награды\r\n        всего 10000 btc за сеанс, ПРЕДЛОЖЕНИЕ ОГРАНИЧЕНО ПО ВРЕМЕНИ !!! <3<3<3\r\n        ##Special thanks for Militech for sponsoring this event##",
+ 	 	 	 	"trans": "Konnichiwa!! ^___^\r\n        Приходите играть в MEGA Pachinko! С шансом выиграть ОГРОМНЫЕ ЭПИЧЕСКИЕ награды\r\n        всего 5000 btc за сеанс, ПРЕДЛОЖЕНИЕ ОГРАНИЧЕНО ПО ВРЕМЕНИ !!! <3<3<3\r\n        ##Особая благодарность Militech за спонсирование данного мероприятия##",
  	 	 	 	"eng": "Konnichiwa!! ^___^\r\n        Come play the MEGA Pachinko! With chance to win HUGE EPIC rewards\r\n        only 5000 btc per session, LIMITED TIME OFFER!!! <3<3<3\r\n        ##Special thanks for Militech for sponsoring this event##"
  	 	 	}
  	 	},
  	 	"topClanExclusive": {
  	 	 	"name": {
- 	 	 	 	"trans": "Собирать защитные сборы",
+ 	 	 	 	"trans": "Собирать плату за защиту",
  	 	 	 	"eng": "Collect Protection Fees"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Чиновники взятки подкуп и SLPD и SLPD и собирают защитные сборы от владельца бизнеса и граждан в Шангри-Лах. Может быть, вы получите некоторые эпические предметы от них? (Лучшие две бандитские эксклюзивные)",
+ 	 	 	 	"trans": "Подкупите правительственных чиновников и полицию и соберите Плату за защиту с владельца бизнеса и граждан в Шангри-ла. Может быть, вы получите от них какие-нибудь эпические предметы? (Эксклюзив для двух лучших банд)",
  	 	 	 	"eng": "Bribe Government officials and SLPD and Collect Protection Fees from business owner and citizens in Shangri-lah. maybe you will get some EPIC items from them? (Top Two Gang Exclusive)"
  	 	 	}
  	 	},
@@ -512,7 +512,7 @@
  	 	 	 	"eng": "Hack SL Data Fortress"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Запустить совместную атаку в киберпространстве, ориентировав на крепость Shangri-La \r\n         Если бы атака должна была добиться успеха, чтобы заставить данные крепости передавать эксплойты для всех кибернетически подключенных пользователей",
+ 	 	 	 	"trans": "Запустите совместную атаку в киберпространстве, нацеленную на Крепость данных Шангри-Ла \r\n         Если атака будет успешной, возможно заставить Крепость данных передавать эксплойты всем кибернетически подключеным пользователям",
  	 	 	 	"eng": "Launch a collaborated attack in cyberspace targeting the Shangri-La Data Fortress\r\n        if attack were to succeed its possible to force the Data Fortress to transmit exploits to all cybernetically connected users"
  	 	 	}
  	 	}
@@ -652,7 +652,7 @@
  	 	 	 	"eng": "Pain Away"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "У тебя мигрень? используй Обезболивающее, чтобы избавиться от боли!",
+ 	 	 	 	"trans": "У вас болит голова? Используйте Pain Away™, чтобы облегчить вашу боль!",
  	 	 	 	"eng": "Do you have headache? Use Pain Away™ to relieve your pain!"
  	 	 	}
  	 	},
@@ -692,7 +692,7 @@
  	 	 	 	"eng": "Military Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Инъекционные наноустройства, выпускаемые в военных целях; способны исцелять во время боя.",
+ 	 	 	 	"trans": "Инъекционные наномашины, которые являются стандартным выпуском для военного использования. Они способны исцелять раны во время боя.",
  	 	 	 	"eng": "Injectable nano machines that are standard issue for military use. They are capable of patching injuries while in combat."
  	 	 	}
  	 	},
@@ -702,7 +702,7 @@
  	 	 	 	"eng": "Advanced Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Инъекционные наноустройства, выпускаемые в военных целях; способны исцелять во время боя.",
+ 	 	 	 	"trans": "Инъекционные наномашины, которые являются стандартным выпуском для военного использования. Они способны исцелять раны во время боя.",
  	 	 	 	"eng": "Injectable nano machines that are standard issue for military use. They're capable of patching injuries while in combat."
  	 	 	}
  	 	},
@@ -712,7 +712,7 @@
  	 	 	 	"eng": "High Quality Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Инъекционные наноустройства, выпускаемые в особых военных целях; способны исцелять во время боя.",
+ 	 	 	 	"trans": "Инъекционные наномашины, которые являются стандартным выпуском для военного использования. Они способны исцелять раны во время боя.",
  	 	 	 	"eng": "Injectable nano machines that are standard issue for military use. They're capable of patching injuries while in combat."
  	 	 	}
  	 	},
@@ -722,7 +722,7 @@
  	 	 	 	"eng": "Rare Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Инъекционные наноустройства, выпускаемые в особых военных целях; способны исцелять во время боя.",
+ 	 	 	 	"trans": "Инъекционные наномашины, которые являются стандартным выпуском для военного использования. Они способны исцелять раны во время боя.",
  	 	 	 	"eng": "Injectable nano machines that are standard issue for military use. They're capable of patching injuries while in combat."
  	 	 	}
  	 	},
@@ -732,7 +732,7 @@
  	 	 	 	"eng": "Pain Away Spray"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "У вас с другом мигрень? Используйте Pain Away Spray™, чтобы избавиться от боли!",
+ 	 	 	 	"trans": "У вас с другом мигрень? Используйте Pain Away Spray™, чтобы облегчить вашу боль!",
  	 	 	 	"eng": "Do you and your friends both have headaches? Use Pain Away Spray™ to relief your pain!"
  	 	 	}
  	 	},
@@ -892,7 +892,7 @@
  	 	 	 	"eng": "Energy Cell"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Мобильное устройство хранения энергии, может быть использовано как боеприпас для Спец. Оружия",
+ 	 	 	 	"trans": "Мобильное устройство хранения энергии, может быть использовано в качестве боеприпасов для Спец. Оружия",
  	 	 	 	"eng": "Portable energy storage device, it can be used as consumable ammo for your Special Weapons"
  	 	 	}
  	 	},
@@ -1130,7 +1130,7 @@
  	 	 	 	"eng": "Legendary Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Инъекционные наномашины, которые для продвижения военного использования, способные исправлять травмы в боевой ситуации",
+ 	 	 	 	"trans": "Инъекционные наномашины, предназначенные для передового военного применения, способные исцелять раны в боевой обстановке",
  	 	 	 	"eng": "injectable nano machines that is for advance military use, capable of patching injury in combat situation"
  	 	 	}
  	 	},
@@ -1140,7 +1140,7 @@
  	 	 	 	"eng": "Epic Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Инъекционные наномашины, которые для продвижения военного использования, способные исправлять травмы в боевой ситуации",
+ 	 	 	 	"trans": "Инъекционные наномашины, предназначенные для передового военного применения, способные исцелять раны в боевой обстановке",
  	 	 	 	"eng": "injectable nano machines that is for advance military use, capable of patching injury in combat situation"
  	 	 	}
  	 	},
@@ -1180,7 +1180,7 @@
  	 	 	 	"eng": "Chat exploit transmitter [PIRATE]"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Модуль эксплойта, который перехватывает глобальные пакеты чата и изменяет его, выполняя атаку человека в среднем. \r\n         Превращает всю речь в глобальном чате с пиратом. Это влияет на все игроки в течение 10 минут",
+ 	 	 	 	"trans": "Модуль эксплойта, который перехватывает глобальные пакеты чата и изменяет его, выполняя атаку человека в среднем. \r\n         Преобразует всю речь в глобальном чате в пиратскую речь. Это влияет на всех игроков в течение 10 минут",
  	 	 	 	"eng": "A exploit module that intercepts global chat packages and modifies it, performing Man-In-The-Middle attack.\r\n        Transforms all speech at global chat to Pirate Speak. This effects all players for 10 minutes"
  	 	 	}
  	 	},
@@ -1190,7 +1190,7 @@
  	 	 	 	"eng": "Chat exploit transmitter [1337]"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Модуль эксплойта, который перехватывает глобальные пакеты чата и изменяет его, выполняя атаку человека в среднем. \r\n         Преобразует всю речь в глобальном чате до L33T SP34K. Это влияет на все игроки в течение 10 минут",
+ 	 	 	 	"trans": "Модуль эксплойта, который перехватывает глобальные пакеты чата и изменяет его, выполняя атаку человека в среднем. \r\n         Преобразует всю речь в глобальном чате в L33T SP34K. Это влияет на всех игроков в течение 10 минут",
  	 	 	 	"eng": "A exploit module that intercepts global chat packages and modifies it, performing Man-In-The-Middle attack.\r\n        Transforms all speech at global chat to l33t Sp34k. This effects all players for 10 minutes"
  	 	 	}
  	 	},
@@ -1200,17 +1200,17 @@
  	 	 	 	"eng": "Chat exploit transmitter [UwU]"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Expwoit Moduwe, который Intewapts Gwobaw Chat Packages и изменяет его, атакуют Pewfowming Man-In-Middwe. \r\n          Twansfowms aww выступление в чате Gwobaw к UWU говорить. Это эффекты aww pwayws fows 10 минут",
+ 	 	 	 	"trans": "Модуль эксплойта, который перехватывает глобальные пакеты чата и изменяет его, выполняя атаку человека в среднем.\r\n          Преобразует всю речь в глобальном чате в UWU SPEAK. Это влияет на всех игроков в течение 10 минут",
  	 	 	 	"eng": "A expwoit moduwe that intewcepts gwobaw chat packages and modifies it, pewfowming man-in-the-middwe attack.\r\n         twansfowms aww speech at gwobaw chat to uwu speak. This effects aww pwayews fow 10 minutes"
  	 	 	}
  	 	},
  	 	"upgradeResetShard": {
  	 	 	"name": {
- 	 	 	 	"trans": "Сброс фабрики Shard",
+ 	 	 	 	"trans": "Сброс к заводским настройкам",
  	 	 	 	"eng": "Factory reset shard"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Образ хранит настройки по умолчанию и алгоритму для оборудований, это используется для сброса завода вашего оборудования",
+ 	 	 	 	"trans": "Образ хранит настройки по умолчанию и алгоритм для оборудований, он используется для заводской настройки вашего оборудования",
  	 	 	 	"eng": "A shard stores default settings and algorithm for equipments, this is used for factory-resetting your equipments"
  	 	 	}
  	 	},
@@ -1226,11 +1226,11 @@
  	 	},
  	 	"chatExploitLove": {
  	 	 	"name": {
- 	 	 	 	"trans": "Чат эксплуатирует передатчик [любовь]",
+ 	 	 	 	"trans": "Чат эксплуатирует передатчик [Love]",
  	 	 	 	"eng": "Chat exploit transmitter [Love]"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Вы получаете немного любви, и вы получаете немного любви! Каждый получает немного любви! \r\n         Когда использовали всех любит друг друга \r\n         Это влияние всех игроков обрабатывают 10 минут",
+ 	 	 	 	"trans": "Ты получишь немного любви, и ты получишь немного любви! Каждый получит немного любви! \r\n         Когда используется, все любят друг друга \r\n         Это влияет на всех игроков в течении 10 минут",
  	 	 	 	"eng": "You get some love, and you get some love! everyone gets some love!.\r\n        When used everyone loves each other\r\n        This effects all players fow 10 minutes"
  	 	 	}
  	 	},
@@ -1240,7 +1240,7 @@
  	 	 	 	"eng": "CyberTunnel VPN"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Беспокоит большой брат, шпионив на вас, пока вы просматриваете киберпространство? \r\n         Ваши домофоны всегда взломаны вредоносными атаками? \r\n         Используйте CyberTunnel VPN, чтобы защитить и шифровать свой опыт NetRunning! \r\n        \r\n         После активации игнорирует любой чат эксплуатации в течение 1 часа",
+ 	 	 	 	"trans": "Беспокоишься, что Старший Брат шпионит за тобой, пока ты просматриваешь киберпространство? \r\n         Ваши домофоны всегда взломываются вредоносными атаками? \r\n         Используйте CyberTunnel VPN, чтобы защитить и шифровать свой опыт NetRunning! \r\n        \r\n         После активации игнорирует любой чат эксплуатации в течение 1 часа",
  	 	 	 	"eng": "Worried the Big Brother spying on you while you browse the cyberspace?\r\n        your intercoms always get hacked by malicious attacks? \r\n        use CyberTunnel VPN to protect and encrypt your netrunning experience! \r\n        \r\n        Once activated, ignores any chat exploit for 1 hour"
  	 	 	}
  	 	}
@@ -1267,7 +1267,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"zoneName"
  	 	 	 	],
- 	 	 	 	"trans": "Пройди данж, чтобы получить больше опыта и предметов!\r\n                        Не забудь купить лечащие предметы, ведь ты не сможешь регенерировать в данже!",
+ 	 	 	 	"trans": "Вы готовы? вы можете проверить свои силы в обычном данже, самом простом.\r\n                        Не забудь купить лечащие предметы, ведь ты не сможешь регенерировать в данже!",
  	 	 	 	"eng": "Are you ready? you can test your strength out with normal dungeon, the easiest one.\r\n                        Remember to bring healing item! you won't heal after fights in dungeon"
  	 	 	}
  	 	},
@@ -1312,7 +1312,7 @@
  	 	 	}
  	 	},
  	 	"buttonTut": {
- 	 	 	"trans": "Как вы думаете, вы достаточно сильны? Возьми на более сильные враги в подземелье! \r\n                         Не забудьте купить элемент исцеления! Вы не будете реже после битвы в подземелье",
+ 	 	 	"trans": "Как вы думаете, вы достаточно сильны? Сразитесь с более сильными врагами в подземелье! \r\n                         Не забудьте купить элемент исцеления! Вы не будете реже после битвы в подземелье",
  	 	 	"eng": "Do you think you are strong enough? take on stronger enemies in dungeon!\r\n                        remember to buy some healing item! you won't regen after battle in dungeon"
  	 	}
  	},
@@ -1334,7 +1334,7 @@
  	 	 	"vars": [
  	 	 	 	"segmentDisplayName"
  	 	 	],
- 	 	 	"trans": "Получи 3 разных Фрагментов Ключа в соответствующих данжах, расположенных в ${progressionId}",
+ 	 	 	"trans": "Получи 3 разных Фрагментов Ключа в соответствующих данжах, расположенных в ${progressionId},\r\n                из них можно создать ключ к следующей локации.\r\n                Найди терминал в [Центр] для создания ключа",
  	 	 	"eng": "Acquire 3 different Key Fragments from each dungeons located in ${segmentDisplayName},\r\n                these are used to create the key to next zone.\r\n                To craft the key, go to terminal in [HUB]",
  	 	 	"name": {
  	 	 	 	"vars": [
@@ -1562,11 +1562,11 @@
  	 	 	 	"vars": [
  	 	 	 	 	"nextSlotSize"
  	 	 	 	],
- 	 	 	 	"trans": "Проведите биткойны, чтобы увеличить, сколько предметов вы можете поставить в свой стойл одновременно",
+ 	 	 	 	"trans": "Потратьте биткоины, чтобы увеличить количество предметов, которые вы можете разместить в своем ларьке одновременно",
  	 	 	 	"eng": "Spend Bitcoins to increase how many items you can put in your stall at the same time"
  	 	 	},
  	 	 	"cantEnterError": {
- 	 	 	 	"trans": "Вам нужен не менее 4 уровня для доступа на рынок",
+ 	 	 	 	"trans": "Вы должны быть как минимум 4-го уровня, чтобы получить доступ к рынку",
  	 	 	 	"eng": "You need to be at least level 4 to access the market"
  	 	 	}
  	 	},
@@ -1657,11 +1657,11 @@
  	 	 	},
  	 	 	"disableAttackBar": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Отключить бар атаки в бою",
+ 	 	 	 	 	"trans": "Отключить шкалу атаки в бою",
  	 	 	 	 	"eng": "Disable Attack Timing Bar"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Отключение бара синхронизации атаки не предоставит дополнительный ущерб",
+ 	 	 	 	 	"trans": "Отключение временной шкалы атаки не нанесет дополнительного урона",
  	 	 	 	 	"eng": "Disabling attack timing bar will not grant extra damage"
  	 	 	 	}
  	 	 	},
@@ -1670,7 +1670,7 @@
  	 	 	 	"eng": "Enable Cyberpunk Mode"
  	 	 	},
  	 	 	"dangerZone": {
- 	 	 	 	"trans": "Опасность",
+ 	 	 	 	"trans": "Опасная зона",
  	 	 	 	"eng": "Danger Zone"
  	 	 	}
  	 	},
@@ -1694,7 +1694,7 @@
  	 	 	 	"eng": "Flatlined"
  	 	 	},
  	 	 	"subTitleSmall": {
- 	 	 	 	"trans": "Ошибка: Нейронная связь отключена",
+ 	 	 	 	"trans": "Критическая Ошибка: Нейронная связь отключена",
  	 	 	 	"eng": "Critical Error: Neural Link Disconnected"
  	 	 	},
  	 	 	"progressBarTitle": {
@@ -1711,7 +1711,7 @@
  	 	"clan": {
  	 	 	"selectDepositAmount": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Пожалуйста введите сколько вы хотите положить",
+ 	 	 	 	 	"trans": "Пожалуйста, введите сумму, которую вы хотите внести",
  	 	 	 	 	"eng": "Please enter amount you want to deposit"
  	 	 	 	},
  	 	 	 	"detail": {
@@ -1789,7 +1789,7 @@
  	 	 	},
  	 	 	"occupation": {
  	 	 	 	"noClan": {
- 	 	 	 	 	"trans": "Ни одна группа не заняла эту область еще",
+ 	 	 	 	 	"trans": "Ни одна банда еще не заняла этот район",
  	 	 	 	 	"eng": "No gang has occupied this area yet"
  	 	 	 	}
  	 	 	}
@@ -1936,7 +1936,7 @@
  	 	 	 	 	"eng": "Compatible Item Identified"
  	 	 	 	},
  	 	 	 	"subTitle": {
- 	 	 	 	 	"trans": "Всё Системы Готовв",
+ 	 	 	 	 	"trans": "Вся система готова",
  	 	 	 	 	"eng": "All system ready"
  	 	 	 	}
  	 	 	},
@@ -2012,16 +2012,16 @@
  	 	 	},
  	 	 	"modal": {
  	 	 	 	"selectDeposit": {
- 	 	 	 	 	"trans": "Сколько вы хотели бы внести депозит?",
+ 	 	 	 	 	"trans": "Сколько бы вы хотели внести?",
  	 	 	 	 	"eng": "How much would you like to deposit?"
  	 	 	 	},
  	 	 	 	"selectWithdraw": {
- 	 	 	 	 	"trans": "Сколько вы хотели бы выйти?",
+ 	 	 	 	 	"trans": "Сколько бы вы хотели снять?",
  	 	 	 	 	"eng": "How much would you like to withdraw?"
  	 	 	 	}
  	 	 	},
  	 	 	"noBalance": {
- 	 	 	 	"trans": "Вы не можете уйти, когда у вас нет равновесия.",
+ 	 	 	 	"trans": "Вы не можете вывести средства, если у вас нет баланса.",
  	 	 	 	"eng": "You can't withdraw when you have no balance."
  	 	 	},
  	 	 	"depositDesc": {
@@ -2029,11 +2029,11 @@
  	 	 	 	"eng": "Put Bitcoins into bank"
  	 	 	},
  	 	 	"withdrawDesc": {
- 	 	 	 	"trans": "Принимать биткойны из банка",
+ 	 	 	 	"trans": "Вывести биткойны из банка",
  	 	 	 	"eng": "Take Bitcoins out of bank"
  	 	 	},
  	 	 	"putItemToVaultDesc": {
- 	 	 	 	"trans": "Поставить предметы в ваше хранилище",
+ 	 	 	 	"trans": "Поместить предметы в ваше хранилище",
  	 	 	 	"eng": "Put items into your vault"
  	 	 	},
  	 	 	"takeItemFromVaultDesc": {
@@ -2050,7 +2050,7 @@
  	 	},
  	 	"generalCaptcha": {
  	 	 	"story": {
- 	 	 	 	"trans": "Вы нашли старую запертую безопасную коробку, кажется, пост-это с помощью текста, написанного на нем.",
+ 	 	 	 	"trans": "Вы нашли старый запертый сейф, там, кажется, есть наклейка с каким-то текстом, написанным на нем.",
  	 	 	 	"eng": "You found an old locked safe box, there seems like a post-it with some text written on it."
  	 	 	},
  	 	 	"title": {
@@ -2068,7 +2068,7 @@
  	 	},
  	 	"list": {
  	 	 	"longPressToMultiSelect": {
- 	 	 	 	"trans": "Длительное нажатие для мульти-выбора",
+ 	 	 	 	"trans": "Длительное нажатие для множественного выбора",
  	 	 	 	"eng": "Long press to multi-select"
  	 	 	}
  	 	},
@@ -2115,7 +2115,7 @@
  	 	 	 	 	"eng": "Extensive repair required"
  	 	 	 	},
  	 	 	 	"instruction": {
- 	 	 	 	 	"trans": "Этот предмет нарушен, принести его к оружию Смита для ремонта",
+ 	 	 	 	 	"trans": "Этот предмет сломан, отнесите его в оружейную Смита для ремонта",
  	 	 	 	 	"eng": "This item is broken, bring it to Weapon Smith for repair"
  	 	 	 	}
  	 	 	}
@@ -2130,13 +2130,13 @@
  	 	 	 	"eng": "You don't have any secret keys"
  	 	 	},
  	 	 	"noKeysSubtitle": {
- 	 	 	 	"trans": "Вы можете получить секретный ключ от подземелья",
+ 	 	 	 	"trans": "Вы можете получить секретные ключи из подземелий",
  	 	 	 	"eng": "You can obtain secret keys from Dungeons"
  	 	 	}
  	 	},
  	 	"npc": {
  	 	 	"notUnlocked": {
- 	 	 	 	"trans": "Это еще не разблокировано, попробуйте уровень вашего персонажа",
+ 	 	 	 	"trans": "Это еще не разблокировано, попробуйте прокачать уровень вашего персонажа",
  	 	 	 	"eng": "This is not unlocked yet, try leveling up your character"
  	 	 	},
  	 	 	"repairItems": {
@@ -2156,7 +2156,7 @@
  	 	"itemDetails": {
  	 	 	"factoryReset": {
  	 	 	 	"confirmation": {
- 	 	 	 	 	"trans": "Это будет сбросить всю калибровку на вашем элементе, а также снова выполнить его торгуемым. \n       Вы уверены, что хотите продолжить?",
+ 	 	 	 	 	"trans": "Выполнение этого приведет к сбросу всей калибровки вашего изделия. Это также сделает его снова доступным для торговли. \n       Вы уверены, что хотите продолжить?",
  	 	 	 	 	"eng": "Doing this will reset all calibration on your item. It will also make it tradable again. \n      Are you sure you want to proceed?"
  	 	 	 	},
  	 	 	 	"trans": "Сброс к заводским настройкам",
@@ -2175,7 +2175,7 @@
  	 	},
  	 	"gang": {
  	 	 	"confirmKickMember": {
- 	 	 	 	"trans": "Вы уверены, что хотите ударить этого игрока из вашей банды?",
+ 	 	 	 	"trans": "Вы уверены, что хотите выгнать этого игрока из вашей банды?",
  	 	 	 	"eng": "are you sure you want to kick this player from your gang?"
  	 	 	},
  	 	 	"memberContribution": {
@@ -2215,7 +2215,7 @@
  	 	 	 	"eng": "Coupon"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Если у вас есть купон от одного из наших событий, вы можете претендовать на это здесь.",
+ 	 	 	 	"trans": "Если у вас есть купон с одного из наших событий, вы можете получить его здесь.",
  	 	 	 	"eng": "If you have a coupon from one of our events, you can claim it here."
  	 	 	},
  	 	 	"placeholder": {
@@ -2267,7 +2267,7 @@
  	 	},
  	 	"job": {
  	 	 	"cantEnterError": {
- 	 	 	 	"trans": "Вам нужен хотя бы уровень 2 для доступа к HUB",
+ 	 	 	 	"trans": "Вы должны быть как минимум 2-го уровня для доступа к HUB",
  	 	 	 	"eng": "You need to be at least level 2 to access the job hub"
  	 	 	}
  	 	},
@@ -2277,7 +2277,7 @@
  	 	 	 	"eng": "Cyberpunk Text-based MMORPG"
  	 	 	},
  	 	 	"description1": {
- 	 	 	 	"trans": "Cybercode Online - это онлайн игра, необходимо хранить данные игры.",
+ 	 	 	 	"trans": "Cybercode Online - это онлайн игра, для хранения игровых данных необходима учетная запись.",
  	 	 	 	"eng": "CyberCode Online is an online game, an account is needed to store game data."
  	 	 	},
  	 	 	"description2": {
@@ -2305,7 +2305,7 @@
  	 	 	 	"eng": "Create Account"
  	 	 	},
  	 	 	"loginPageButton": {
- 	 	 	 	"trans": "Иметь аккаунт?",
+ 	 	 	 	"trans": "Есть аккаунт?",
  	 	 	 	"eng": "Have account?"
  	 	 	}
  	 	},
@@ -2316,7 +2316,7 @@
  	 	 	},
  	 	 	"playerNameInput": {
  	 	 	 	"label": {
- 	 	 	 	 	"trans": "Название характера",
+ 	 	 	 	 	"trans": "Имя персонажа",
  	 	 	 	 	"eng": "Character Name"
  	 	 	 	},
  	 	 	 	"description": {
@@ -2393,13 +2393,13 @@
  	 	 	 	 	 	"eng": "Cyberspace hacking in progress"
  	 	 	 	 	},
  	 	 	 	 	"subtitle": {
- 	 	 	 	 	 	"trans": "Присоединяйтесь к силе с другими Netrunnners, чтобы нарушить крепость SL-Data, чтобы предоставить всем игрокам",
+ 	 	 	 	 	 	"trans": "Объедините усилия с другими нетраннерами, для взлома крепости SL-Данных, чтобы предоставить всем игрокам бафф",
  	 	 	 	 	 	"eng": "Join forces with other Netrunners to breach the SL-Data Fortress to grant all players with buff"
  	 	 	 	 	}
  	 	 	 	},
  	 	 	 	"completeBox": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "Завершена нарушение операции",
+ 	 	 	 	 	 	"trans": "Операция по нарушению завершена",
  	 	 	 	 	 	"eng": "Breach operation completed"
  	 	 	 	 	},
  	 	 	 	 	"subtitle": {
@@ -2433,17 +2433,17 @@
  	 	},
  	 	"backToPreviusLoc": {
  	 	 	"longPressBackToCity": {
- 	 	 	 	"trans": "Длительный пресс, чтобы вернуться в город",
+ 	 	 	 	"trans": "Длительное нажатие, чтобы вернуться в город",
  	 	 	 	"eng": "Long press to go back to city"
  	 	 	}
  	 	},
  	 	"dungeon": {
  	 	 	"public": {
- 	 	 	 	"trans": "Общественный подземелье",
+ 	 	 	 	"trans": "Общественное подземелье",
  	 	 	 	"eng": "Public dungeon"
  	 	 	},
  	 	 	"password": {
- 	 	 	 	"trans": "Защищенный паролем подземелья",
+ 	 	 	 	"trans": "Подземелье, защищенное паролем",
  	 	 	 	"eng": "Password protected dungeon"
  	 	 	},
  	 	 	"enterDungeon": {
@@ -2456,7 +2456,7 @@
  	 	 	 	 	"eng": "Dungeons"
  	 	 	 	},
  	 	 	 	"des": {
- 	 	 	 	 	"trans": "В подземелье вы не исцелите после каждого боя, а враги сильнее, но есть более опыт и добычи",
+ 	 	 	 	 	"trans": "В подземелье вы не будете исцеляться после каждого боя, а враги сильнее, но тут больше опыта и добычи",
  	 	 	 	 	"eng": "In dungeons, you will not heal after each fight, and enemies are stronger, but there are more exp and loots"
  	 	 	 	}
  	 	 	}
@@ -2480,7 +2480,7 @@
  	 	 	 	 	"eng": "Nearby Enemies"
  	 	 	 	},
  	 	 	 	"desc": {
- 	 	 	 	 	"trans": "Сканирование для близлежащих врагов на улице, враги за пределами подземелья слабее и легче поражать. Однако они также падают меньше",
+ 	 	 	 	 	"trans": "Сканирование на наличие ближайших врагов на улице, враги за пределами подземелья слабее и их легче победить. Однако с них падает меньше опыта",
  	 	 	 	 	"eng": "Scans for nearby enemies on the street, enemies outside dungeons are weaker and easier to defeat. However they also drop less exp"
  	 	 	 	}
  	 	 	}
@@ -2623,7 +2623,7 @@
  	 	 	 	"eng": "Crit chance"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Шанс исполнения критическогй атаки",
+ 	 	 	 	"trans": "Вероятность критической атаки",
  	 	 	 	"eng": "Chance of you executing a critical attack"
  	 	 	}
  	 	},
@@ -2669,7 +2669,7 @@
  	 	 	 	"eng": "Stun chance"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Шанс оглушить противника при нанесении урона, \r\n    после чего противник не ответит вам тем же",
+ 	 	 	 	"trans": "Шанс оглушить противника при нанесении урона, \r\n    в результате чего он не сможет ответить на вашу атаку",
  	 	 	 	"eng": "Chance of you stunning your enemy when dealing damage, \r\n    causing them not able to respond to your attack"
  	 	 	}
  	 	},
@@ -2689,7 +2689,7 @@
  	 	 	 	"eng": "Bargain"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Влияет на цену при торговле с NPC.",
+ 	 	 	 	"trans": "Влияет на цену при торговле с NPC или в магазинах.",
  	 	 	 	"eng": "Influences the price when buying and selling from npc's or stores."
  	 	 	}
  	 	},
@@ -2709,7 +2709,7 @@
  	 	 	 	"eng": "Damage multiplier"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Процентно увеличивает урон",
+ 	 	 	 	"trans": "Увеличивает урон в процентах",
  	 	 	 	"eng": "Increases damage by percentage"
  	 	 	}
  	 	},
@@ -2719,7 +2719,7 @@
  	 	 	 	"eng": "Defence multiplier"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Процентно уменьшает получаемый урон",
+ 	 	 	 	"trans": "Уменьшает полученный урон в процентах",
  	 	 	 	"eng": "Decreases damage received by percentage"
  	 	 	}
  	 	},
@@ -2729,7 +2729,7 @@
  	 	 	 	"eng": "Stun evade"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Уменьшает шанс быть оглушенным",
+ 	 	 	 	"trans": "Уменьшает вероятность оглушения",
  	 	 	 	"eng": "Decreases chance of getting stunned"
  	 	 	}
  	 	},
@@ -2785,11 +2785,11 @@
  	 	},
  	 	"maxHealth": {
  	 	 	"name": {
- 	 	 	 	"trans": "Здоровье",
+ 	 	 	 	"trans": "Максимальное Здоровье",
  	 	 	 	"eng": "Max Health"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Запас здоровья игрока",
+ 	 	 	 	"trans": "Максимальный запас здоровья игрока",
  	 	 	 	"eng": "Maximum health capacity"
  	 	 	}
  	 	},
@@ -2936,7 +2936,7 @@
  	 	},
  	 	"review": {
  	 	 	"title1": {
- 	 	 	 	"trans": "Я Декстер, разработчик этой игры, и я надеюсь узнать свой опыт до сих пор.",
+ 	 	 	 	"trans": "Я Декстер, разработчик этой игры, и я надеюсь узнать ваш опыт до сих пор.",
  	 	 	 	"eng": "I'm Dexter, the developer of this game, and I hope to know your experience so far."
  	 	 	},
  	 	 	"title2": {
@@ -2951,11 +2951,11 @@
  	 	 	},
  	 	 	"goodReview": {
  	 	 	 	"title1": {
- 	 	 	 	 	"trans": "Вау большое спасибо! Я честь, пожалуйста, сделайте его официально, оставив их на нашей странице магазина :)",
+ 	 	 	 	 	"trans": "Ух ты, большое спасибо! Для меня большая честь, пожалуйста, сделайте это официально, оставив их на странице нашего магазина :)",
  	 	 	 	 	"eng": "Wow, thanks so much! I'm honored, please make it official by leaving them on our store page :)"
  	 	 	 	},
  	 	 	 	"title2": {
- 	 	 	 	 	"trans": "Ваш хороший обзор собирается помочь мне очень и принести больше игроков в наше сообщество!",
+ 	 	 	 	 	"trans": "Ваш хороший отзыв очень поможет мне и привлечет больше игроков в наше сообщество!",
  	 	 	 	 	"eng": "Your good review is going to help me much and bring more players into our community!"
  	 	 	 	}
  	 	 	},
@@ -3043,7 +3043,7 @@
  	 	 	"eng": "Chat Exploit [UwU]"
  	 	},
  	 	"love": {
- 	 	 	"trans": "Чат эксплуатирует [Любовь]",
+ 	 	 	"trans": "Чат эксплуатирует [LOVE]",
  	 	 	"eng": "Chat Exploit [LOVE]"
  	 	},
  	 	"chatExploitProtect": {
@@ -3063,7 +3063,7 @@
  	},
  	"tutorial": {
  	 	"localCombatButton": {
- 	 	 	"trans": "Нажмите здесь, чтобы сканировать на уличных врагов",
+ 	 	 	"trans": "Нажмите здесь, чтобы проверить наличие уличных врагов",
  	 	 	"eng": "Click here to scan for street enemies"
  	 	}
  	}
